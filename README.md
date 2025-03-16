@@ -95,15 +95,6 @@ https://pbs.twimg.com/media/example.jpg
 ## **Автор**
 
 - **tg:** [https://t.me/sherpfff]
-
----
-
-## **Благодарности**
-
-- [Tweepy](https://www.tweepy.org/) — для работы с Twitter API.
-- [python-telegram-bot](https://python-telegram-bot.org/) — для работы с Telegram Bot API.
-- [python-dotenv](https://pypi.org/project/python-dotenv/) — для загрузки переменных окружения.
-
 ---
 
 ### **Что дальше?**
